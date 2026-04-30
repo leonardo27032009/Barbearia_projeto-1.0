@@ -1,0 +1,23 @@
+{
+  "name": "aplicativo_web",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo27032009/Barbearia_projeto.git"
+  },
+  "author": "Leonardo Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardo27032009/Barbearia_projeto/issues"
+  },
+  "homepage": "https://github.com/leonardo27032009/Barbearia_projeto#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
